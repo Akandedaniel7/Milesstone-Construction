@@ -202,7 +202,7 @@ section {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid var(--color-primary);
+  border: 6px solid #e8811a;
   border-top-color: #fff;
   border-radius: 50%;
   width: 60px;
@@ -1076,7 +1076,7 @@ section {
 }
 
 .services-cards .card-item p {
-  color: var(--color-secondary);
+  color: #000;
   margin: 0;
 }
 
